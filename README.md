@@ -1,12 +1,13 @@
-# Learn-WebXR
-Resources for my Udemy course
-
 ## Examples
-Online examples are available [here](https://niksgames.com/webxr/)
+ Decentraland Metaverse .
+
+
+# Experience-WebXR
+
+Click on the link [here](https://niksgames.com/webxr/complete/lecture6_4/)
 
 ## Links
-- [My courses](http://niklever.com/courses)
-- ![icon](assets/facebook.png)[FB Three.JS Group](https://www.facebook.com/groups/nikthreejs)
-- ![icon](assets/twitter.png)[Twitter](https://twitter.com/NikLever)
-- ![icon](assets/youtube.png)[YouTube Channel](https://youtube.com/c/NikLever)
-- ![icon](assets/mail.png)[nik.j.lever@gmail.com](mailto:nik.j.lever@gmail.com)
+- ![icon](assets/linkedin.png)[Linkedin](https://www.linkedin.com/in/akash-kumar-a486291b9/)
+- ![icon](assets/facebook.png)[Facebook](https://www.facebook.com/profile.php?id=100069222439766)
+- ![icon](assets/twitter.png)[Twitter](https://twitter.com/Akashverse_0)
+- ![icon](assets/mail.png)[aksahkumargmail.com](mailto:aksahkumar02032002@gmail.com)
