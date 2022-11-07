@@ -5,7 +5,7 @@
 
 # Experience-WebXR
 
-Click on the link [here](https://niksgames.com/webxr/complete/lecture6_4/)
+Link of the given Metaverse Project given here. So click the here btn. [here](https://niksgames.com/webxr/complete/lecture6_4/)
 
 ## Links
 - ![icon](assets/linkedin.png)[Linkedin](https://www.linkedin.com/in/akash-kumar-a486291b9/)
